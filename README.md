@@ -8,20 +8,10 @@ Compare different text-to-image Opensource Models in their capacity of creating 
 ### Example:
 **Deva** in hand-drawned style
 
-*"Devas are angels that act as divine messengers or
-agents to the Material P lane, the Shadowfell, and the
-Feywild and that can assume a form appropriate to the
-realm they are sent to.
-Legend tells of angels that take mortal form for years,
-lending aid, hope, and courage to good hearted folk. A
-deva can take any shape, although it prefers to appear
-to mortals as an innocuous humanoid or animal. When
-circumstances require that it cast off its guise, a deva is
-a beautiful humanoid-like creature with silvery skin. Its
-hair and eyes gleam with an unearthly luster, and large
-feathery wings unfurl from its shoulder blades."*
-
+*"Devas are [...] blades"*
 -->According to this description, a model should be able to produce an image in a similar style than the one provided before.
+
+-->Description hidden, copyrights
 
 **Databank:** The official Monster Manual descriptions from Dungeon and Dragons (copyrights?, PDF? Or book) in english.
 

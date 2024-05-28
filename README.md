@@ -3,9 +3,10 @@ University project for the class "Wie konkurrenzfähig sind Open LLMs? " of the 
 
 ## Goal:
 
-- Compare different text-to-image Opensource Models in their capacity of creating accurate monsters from the dungeon and dragons universum (using the monster manual as description basis).
+Compare different text-to-image Opensource Models in their capacity of creating accurate monsters from the dungeon and dragons universum (using the monster manual as description basis).
 
-### Example: DEVA
+### Example:
+**Deva** in hand-drawned style
 *"Devas are angels that act as divine messengers or
 agents to the Material P lane, the Shadowfell, and the
 Feywild and that can assume a form appropriate to the
@@ -32,3 +33,10 @@ feathery wings unfurl from its shoulder blades."*
 - Informations to give: Monster name, monster description, art style in which to produce the art, required modifications when needed
 3) Repeat the operation on the other models
 4) Note the differences and the ease/speed with which the images were made
+
+## What is analysed
+- How well is the image reproduced from the description
+- How fast was the image generated
+- How many modifications were asked
+- Is the art style respected across all generation?
+- Can the model do well with the given description? Are the descriptions too vague? What needed to be changed in the original promt to get the desired result?

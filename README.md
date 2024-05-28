@@ -7,6 +7,7 @@ Compare different text-to-image Opensource Models in their capacity of creating 
 
 ### Example:
 **Deva** in hand-drawned style
+
 *"Devas are angels that act as divine messengers or
 agents to the Material P lane, the Shadowfell, and the
 Feywild and that can assume a form appropriate to the

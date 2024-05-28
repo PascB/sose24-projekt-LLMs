@@ -9,6 +9,7 @@ Compare different text-to-image Opensource Models in their capacity of creating 
 **Deva** in hand-drawned style
 
 *"Devas are [...] blades"*
+
 -->According to this description, a model should be able to produce an image in a similar style than the one provided before.
 
 -->Description hidden, copyrights

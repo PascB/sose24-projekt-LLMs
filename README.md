@@ -20,7 +20,7 @@ Compare different text-to-image Opensource Models in their capacity of creating 
 
 - https://huggingface.co/runwayml/stable-diffusion-v1-5 (Most liked model)
 - https://huggingface.co/ntc-ai/SDXL-LoRA-slider.dungeons-and-dragons-cover-artwork (model specifically for dungeons and dragons artwork)
-(- Either closed-LLM (Dall-e/firefly) or https://huggingface.co/TheMistoAI/MistoLine (Top trending model) )
+- ((Either closed-LLM (Dall-e/firefly) or https://huggingface.co/TheMistoAI/MistoLine (Top trending model) )
 
 ## Steps:
 
